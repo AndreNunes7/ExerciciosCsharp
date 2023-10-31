@@ -1,6 +1,6 @@
-# Exercícios de C# - Curso XYZ
+# Exercícios de C# 
 
-Este repositório contém uma coleção de exercícios de C# que foram concluídos durante o Curso XYZ. Cada pasta representa um conjunto de exercícios relacionados a um tópico específico ou módulo do curso.
+Este repositório contém uma coleção de exercícios de C# que foram concluídos durante um curso.
 
 
 ## Como Usar
