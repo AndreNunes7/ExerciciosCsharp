@@ -1,0 +1,14 @@
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaCondicional\Ex04\Ex04\bin\Debug\net6.0\Ex04.exe
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaCondicional\Ex04\Ex04\bin\Debug\net6.0\Ex04.deps.json
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaCondicional\Ex04\Ex04\bin\Debug\net6.0\Ex04.runtimeconfig.json
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaCondicional\Ex04\Ex04\bin\Debug\net6.0\Ex04.dll
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaCondicional\Ex04\Ex04\bin\Debug\net6.0\Ex04.pdb
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaCondicional\Ex04\Ex04\obj\Debug\net6.0\Ex04.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaCondicional\Ex04\Ex04\obj\Debug\net6.0\Ex04.AssemblyInfoInputs.cache
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaCondicional\Ex04\Ex04\obj\Debug\net6.0\Ex04.AssemblyInfo.cs
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaCondicional\Ex04\Ex04\obj\Debug\net6.0\Ex04.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaCondicional\Ex04\Ex04\obj\Debug\net6.0\Ex04.dll
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaCondicional\Ex04\Ex04\obj\Debug\net6.0\refint\Ex04.dll
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaCondicional\Ex04\Ex04\obj\Debug\net6.0\Ex04.pdb
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaCondicional\Ex04\Ex04\obj\Debug\net6.0\Ex04.genruntimeconfig.cache
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaCondicional\Ex04\Ex04\obj\Debug\net6.0\ref\Ex04.dll

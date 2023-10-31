@@ -1,0 +1,14 @@
+D:\ProjetosC#\Course\ExerciciosCurso\Ex02\Ex02\Ex02\bin\Debug\net6.0\Ex02.exe
+D:\ProjetosC#\Course\ExerciciosCurso\Ex02\Ex02\Ex02\bin\Debug\net6.0\Ex02.deps.json
+D:\ProjetosC#\Course\ExerciciosCurso\Ex02\Ex02\Ex02\bin\Debug\net6.0\Ex02.runtimeconfig.json
+D:\ProjetosC#\Course\ExerciciosCurso\Ex02\Ex02\Ex02\bin\Debug\net6.0\Ex02.dll
+D:\ProjetosC#\Course\ExerciciosCurso\Ex02\Ex02\Ex02\bin\Debug\net6.0\Ex02.pdb
+D:\ProjetosC#\Course\ExerciciosCurso\Ex02\Ex02\Ex02\obj\Debug\net6.0\Ex02.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\Course\ExerciciosCurso\Ex02\Ex02\Ex02\obj\Debug\net6.0\Ex02.AssemblyInfoInputs.cache
+D:\ProjetosC#\Course\ExerciciosCurso\Ex02\Ex02\Ex02\obj\Debug\net6.0\Ex02.AssemblyInfo.cs
+D:\ProjetosC#\Course\ExerciciosCurso\Ex02\Ex02\Ex02\obj\Debug\net6.0\Ex02.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\Course\ExerciciosCurso\Ex02\Ex02\Ex02\obj\Debug\net6.0\Ex02.dll
+D:\ProjetosC#\Course\ExerciciosCurso\Ex02\Ex02\Ex02\obj\Debug\net6.0\refint\Ex02.dll
+D:\ProjetosC#\Course\ExerciciosCurso\Ex02\Ex02\Ex02\obj\Debug\net6.0\Ex02.pdb
+D:\ProjetosC#\Course\ExerciciosCurso\Ex02\Ex02\Ex02\obj\Debug\net6.0\Ex02.genruntimeconfig.cache
+D:\ProjetosC#\Course\ExerciciosCurso\Ex02\Ex02\Ex02\obj\Debug\net6.0\ref\Ex02.dll

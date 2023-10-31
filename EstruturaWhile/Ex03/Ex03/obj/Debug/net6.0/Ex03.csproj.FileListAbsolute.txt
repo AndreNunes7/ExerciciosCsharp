@@ -1,0 +1,14 @@
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaWhile\Ex03\Ex03\bin\Debug\net6.0\Ex03.exe
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaWhile\Ex03\Ex03\bin\Debug\net6.0\Ex03.deps.json
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaWhile\Ex03\Ex03\bin\Debug\net6.0\Ex03.runtimeconfig.json
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaWhile\Ex03\Ex03\bin\Debug\net6.0\Ex03.dll
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaWhile\Ex03\Ex03\bin\Debug\net6.0\Ex03.pdb
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaWhile\Ex03\Ex03\obj\Debug\net6.0\Ex03.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaWhile\Ex03\Ex03\obj\Debug\net6.0\Ex03.AssemblyInfoInputs.cache
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaWhile\Ex03\Ex03\obj\Debug\net6.0\Ex03.AssemblyInfo.cs
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaWhile\Ex03\Ex03\obj\Debug\net6.0\Ex03.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaWhile\Ex03\Ex03\obj\Debug\net6.0\Ex03.dll
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaWhile\Ex03\Ex03\obj\Debug\net6.0\refint\Ex03.dll
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaWhile\Ex03\Ex03\obj\Debug\net6.0\Ex03.pdb
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaWhile\Ex03\Ex03\obj\Debug\net6.0\Ex03.genruntimeconfig.cache
+D:\ProjetosC#\Course\ExerciciosC#\EstruturaWhile\Ex03\Ex03\obj\Debug\net6.0\ref\Ex03.dll
